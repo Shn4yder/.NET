@@ -1,0 +1,11 @@
+D:\Documents\vs\.NET\task_1\bin\Debug\task_1.exe.config
+D:\Documents\vs\.NET\task_1\bin\Debug\task_1.exe
+D:\Documents\vs\.NET\task_1\bin\Debug\task_1.pdb
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.csproj.AssemblyReference.cache
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.csproj.SuggestedBindingRedirects.cache
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.Form1.resources
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.Properties.Resources.resources
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.csproj.GenerateResource.cache
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.csproj.CoreCompileInputs.cache
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.exe
+D:\Documents\vs\.NET\task_1\obj\Debug\task_1.pdb
