@@ -1,0 +1,11 @@
+D:\Documents\vs\.NET\task_5\bin\Debug\task_5.exe.config
+D:\Documents\vs\.NET\task_5\bin\Debug\task_5.exe
+D:\Documents\vs\.NET\task_5\bin\Debug\task_5.pdb
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.csproj.AssemblyReference.cache
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.csproj.SuggestedBindingRedirects.cache
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.Form1.resources
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.Properties.Resources.resources
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.csproj.GenerateResource.cache
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.csproj.CoreCompileInputs.cache
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.exe
+D:\Documents\vs\.NET\task_5\obj\Debug\task_5.pdb
